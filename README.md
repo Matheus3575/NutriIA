@@ -1,3 +1,5 @@
+Contribuição no Backend (arquitetura da API, pipeline de contexto/RAG, validação estruturada com Pydantic e persistência em PostgreSQL), o projeto completo encontra-se no repositório original.
+
 # NutriIA
 
 Assistente nutricional para leitura de rótulos, análise de ingredientes e
